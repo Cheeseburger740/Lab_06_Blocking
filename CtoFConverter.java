@@ -29,4 +29,3 @@ public class CtoFConverter {
         System.out.printf("Temperature in Fahrenheit: %.2f\n", fahrenheit);
         in.close();
     }
-}
